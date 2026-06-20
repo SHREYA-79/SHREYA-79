@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SHREYA-79/profile-assets/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/SHREYA-79/profile-assets/main/banner.png" width="100%"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Software+Engineering;Data+Analytics;Business+Intelligence;Data+Engineering;108%2B+LeetCode+Problems;CGPA+9.81;Electronics+%26+Computer+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Data+Analytics;Business+Intelligence;Data+Engineering;108%2B+LeetCode+Problems;CGPA+9.81;Electronics+%26+Computer+Engineering" />
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=SHREYA-79&style=for-the-badge&color=blueviolet"/>
 
@@ -14,48 +14,81 @@
 
 ---
 
-# 🌌 About Me
+# 👋 Hi, I'm Shreya Reddy
+
+🎓 Final Year B.Tech student in **Electronics & Computer Engineering**
+
+🏫 SRM Institute of Science and Technology
+
+📈 CGPA: **9.81**
+
+💻 108+ LeetCode problems solved
+
+🚀 Interested in:
+
+- Software Engineering
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Backend Development
+
+---
+
+# 💻 About Me
 
 ```python
 class Shreya:
 
-    degree = "Electronics & Computer Engineering"
+    education = "B.Tech Electronics & Computer Engineering"
 
     university = "SRM Institute of Science and Technology"
 
     cgpa = 9.81
 
-    solved_problems = "108+ LeetCode"
+    year = "Final Year"
 
-    domains = [
+    solved_problems = "108+"
+
+    interests = [
         "Software Engineering",
         "Data Analytics",
         "Business Intelligence",
-        "Data Engineering",
-        "Backend Development"
+        "Data Engineering"
     ]
 
-    currently_learning = [
-        "System Design",
-        "Advanced SQL",
-        "Data Engineering",
-        "Backend Systems"
-    ]
-
-    goal = (
-        "Transforming data into decisions "
-        "and building software that matters."
-    )
+    motto = "Transforming data into decisions."
 ```
 
 ---
 
-# 🚀 Tech Universe
+# 🎯 Career Interests
+
+✅ Software Engineer
+
+✅ Data Analyst
+
+✅ Business Analyst
+
+✅ BI Developer
+
+✅ Data Engineer
+
+✅ Graduate Engineer Trainee
+
+---
+
+# 🛠 Languages
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,js&perline=7"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,html,css,js,ts,git,github,vscode,vercel&perline=6" />
+---
 
+# ⚙ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4"/>
 </p>
 
 ---
@@ -78,13 +111,13 @@ class Shreya:
 
 ---
 
-# 🗄️ Databases & Data Engineering
+# 🗄 Data Engineering Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
 <img src="https://img.shields.io/badge/ETL-6C63FF?style=for-the-badge"/>
 
@@ -108,11 +141,38 @@ class Shreya:
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
 
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
 </p>
+
+---
+
+# 🤖 AI & Data Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📚 Core Subjects
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Data Warehousing
+- Business Intelligence
 
 ---
 
@@ -134,33 +194,55 @@ Data Engineering     ███████      72%
 
 # 🚀 Featured Projects
 
-### 📊 DataLens AI
+## 📊 DataLens AI
 
-Professional analytics and visualization platform.
-
----
-
-### 🏬 Retail Sales Data Warehouse
-
-Enterprise business intelligence solution.
+Professional analytics and visualization platform built using Streamlit, Pandas, Plotly, and statistical analytics.
 
 ---
 
-### 🛒 E-Commerce Power BI Analysis
+## 🏬 Retail Sales Data Warehouse
 
-Customer and revenue analytics dashboard.
-
----
-
-### 🏏 IPL 2025 Dataset
-
-Sports analytics dataset.
+Business intelligence platform using SQL Server, DAX, Power BI, and Star Schema modeling.
 
 ---
 
-### 🌐 Portfolio Website
+## 🛒 E-Commerce Power BI Analysis
 
-Modern responsive developer portfolio.
+Interactive dashboard exploring sales trends, customer behavior, and revenue insights.
+
+---
+
+## 🏏 IPL 2025 Dataset
+
+Sports analytics dataset containing 250+ player records for SQL and analytics projects.
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern responsive portfolio website built using React, TypeScript, and Tailwind CSS.
+
+---
+
+# ⚡ Problem Solving
+
+💻 108+ LeetCode Problems
+
+✔ Arrays
+
+✔ Strings
+
+✔ Hash Maps
+
+✔ Sliding Window
+
+✔ Two Pointers
+
+✔ Sorting
+
+✔ Searching
+
+✔ Recursion
 
 ---
 
@@ -168,17 +250,17 @@ Modern responsive developer portfolio.
 
 🏅 CGPA: 9.81
 
-💻 108+ LeetCode Problems
+🏅 108+ LeetCode Problems
 
-📊 Multiple Analytics Projects
+🏅 Multiple Analytics Projects
 
-🚀 Final-Year Placement Candidate
+🏅 Final Year Placement Candidate
 
-🥈 Department Rank Holder
+🏅 Department Rank Holder
 
 ---
 
-# ⚡ GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -200,23 +282,13 @@ Modern responsive developer portfolio.
 
 ---
 
-# 📊 Contribution Activity
+# 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHREYA-79&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-# 🏆 Trophy Cabinet
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHREYA-79&theme=algolia&column=4&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Profile Metrics
+# 📋 Profile Summary
 
 <p align="center">
 
@@ -226,13 +298,40 @@ Modern responsive developer portfolio.
 
 ---
 
-# 💻 LeetCode Analytics
+# 💻 LeetCode
 
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/Shreyareddy6?theme=dark&font=Poppins&ext=heatmap"/>
 
 </p>
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Advanced SQL
+- Data Engineering Concepts
+- Backend Development
+- ETL Pipelines
+- Data Warehousing
+
+---
+
+# 🌟 Beyond Technology
+
+📊 Analytical Thinking
+
+🤝 Team Collaboration
+
+🧩 Problem Solving
+
+📚 Continuous Learning
+
+🚀 Growth Mindset
+
+💡 Data-Driven Decision Making
 
 ---
 
@@ -246,16 +345,20 @@ Modern responsive developer portfolio.
 
 ---
 
-# 🌐 Connect With Me
+# 📬 Contact
 
 <p align="center">
 
+<a href="mailto:shreya.61219@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/shreya-reddy-chintha6/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Shreyareddy6/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
