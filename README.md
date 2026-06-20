@@ -13,12 +13,6 @@
 <br>
 
 <div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200">
-</div>
-
-<br>
-
-<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SHREYA-79&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/SHREYA-79)
 [![GitHub followers](https://img.shields.io/github/followers/SHREYA-79?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/SHREYA-79?tab=followers)
@@ -63,11 +57,11 @@ class Shreya:
     timezone    = "IST (UTC +5:30)"
 
     education   = {
-        "degree"     : "B.Tech — Electronics & Computer Engineering",
+        "degree"     : "B.Tech — Electronics & Communication Engineering",
         "university" : "SRM Institute of Science & Technology",
-        "cgpa"       : 9.81,
+        "cgpa"       : 9.78,
         "batch"      : "2023 – 2027",
-        
+        "board"      : "Board of Studies Member ✦"
     }
 
     experience  = {
@@ -92,7 +86,7 @@ class Shreya:
 
     currently   = {
         "building"   : "DataLens AI — Multi-tab EDA platform",
-        
+        "prepping"   : "TCS NQT (July 6, 2026) → targeting 9 LPA",
         "practicing" : "DSA: Arrays, Strings, DP, Graphs",
         "learning"   : "System Design & Advanced SQL",
         "writing"    : "Technical blogs on Medium",
@@ -101,7 +95,7 @@ class Shreya:
     fun_facts   = [
         "Solved 108+ LeetCode problems 🧩",
         "SRMIST Board of Studies Member 🏛️",
-        
+        "Building in public via #100DaysOfCode 🔥",
         "Data without decisions is just noise 📊",
     ]
 
@@ -264,7 +258,9 @@ me.say_hi()
 ◉ Data Engineering
   └─ ETL pipelines, Medallion Architecture
 
-
+◉ TCS NQT Prep (July 6, 2026)
+  └─ Aptitude: Quant, DI, LR
+  └─ DSA: Arrays, Strings, DP, Graphs
 ```
 
 </td>
@@ -295,20 +291,20 @@ me.say_hi()
 ║              └─ SQL, Excel, Power BI                                         ║
 ║              └─ Python for Data Analysis                                     ║
 ║              └─ First dashboards & visualizations                            ║
-║                                          ║
+║              └─ Joined SRMIST Board of Studies                               ║
 ║                                                                              ║
 ║  2025  ──●──  🏢 Business Intelligence Era                                   ║
 ║              └─ DAX, Power Query, Star Schema                                ║
 ║              └─ Consulting frameworks (DIED)                                 ║
 ║              └─ Databricks, MLflow, Medallion Architecture                  ║
-║              └─ Oracle Cloud Certified                 ║
+║              └─ AWS AI Practitioner + Oracle Cloud Certified                 ║
 ║                                                                              ║
 ║  2026  ──●──  ⚡ Software + Data Engineering NOW                             ║
 ║              └─ PwC Trainee — AWS & GenAI                                    ║
 ║              └─ Building DataLens AI                                         ║
 ║              └─ LangChain, Claude API, Streamlit                             ║
-║              └─ AWS AI Practitioner
-                        ║
+║              └─ #100DaysOfCode + Technical Writing                           ║
+║                                                                              ║
 ║  2027  ──◌──  🎯 What's Next                                                 ║
 ║              └─ B.Tech ECE — SRMIST (Expected)                               ║
 ║              └─ Full-time Data/Software Engineering role                     ║
@@ -331,6 +327,10 @@ me.say_hi()
 | **🏬 Retail Data Warehouse** | End-to-end warehouse with Star Schema, Power BI dashboards, DAX KPIs & RFM segmentation | `SQL` `Power BI` `DAX` `ETL` | ✅ Complete |
 | **🛒 E-Commerce Dashboard** | 5-tab interactive HTML/JS dashboard on Superstore dataset — RFM, ABC, scenario sim | `HTML` `JS` `Python` `Plotly` | ✅ Complete |
 | **🏏 IPL Analytics** | Sports analytics & visual storytelling on IPL dataset | `Pandas` `Matplotlib` `Seaborn` | ✅ Complete |
+| **💰 FinanceIQ** | AI-powered personal finance advisor with Plotly charts & Claude AI analysis | `Streamlit` `Claude API` `Plotly` | ✅ Complete |
+| **🏠 PropSense** | India real estate anomaly detector with web scraping & AI insights | `Flask` `SQLite` `BeautifulSoup` `Claude API` | ✅ Complete |
+| **🤖 ML Forge** | AutoML Studio: EDA Profiler, NLP Analyzer, Model Comparison Dashboard | `Scikit-Learn` `Streamlit` `NLTK` | ✅ Complete |
+| **📈 Job Market Trends** | Live dashboard tracking job market trends, integrated with Supabase & Render | `Streamlit` `Supabase` `Render` `Plotly` | 🟡 Active |
 
 </div>
 
@@ -409,7 +409,7 @@ me.say_hi()
 ## 📚 CURRENTLY MASTERING
 
 ```
-
+📐  System Design          ████████████░░░░░░░░  60%  HLD, LLD, Scalability
 🗃️  Advanced SQL           ██████████████░░░░░░  70%  Window Functions, CTEs
 ☁️  AWS Architecture       ████████████░░░░░░░░  60%  EC2, S3, Lambda, RDS
 🤖  Generative AI          ██████████░░░░░░░░░░  50%  LangChain, RAG, Agents
@@ -444,6 +444,7 @@ me.say_hi()
 | 📊 **Analytical Thinking** | DIED consulting framework — turning raw data into business decisions |
 | 🧩 **Problem Solving** | 108+ LeetCode problems & real-world data challenges solved |
 | 📚 **Continuous Learning** | AWS + Oracle certified, always upskilling across domains |
+| 🚀 **Growth Mindset** | Building in public via #100DaysOfCode & technical writing on Medium |
 | ✍️ **Technical Writing** | Documenting projects, writing Medium blogs, creating consulting-style reports |
 
 </div>
