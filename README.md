@@ -1,108 +1,190 @@
 <div align="center">
 
-# Shreya Reddy
-### Data Analyst · Business Intelligence
+<img src="https://raw.githubusercontent.com/SHREYA-79/profile-assets/main/banner.png" width="100%">
 
-I turn raw data into dashboards, decisions, and ROI. Final-year Electronics & Computer Engineering student at SRM Institute of Science and Technology (CGPA 9.81) — actively interviewing for Data Analyst / BI roles.
+# Hi, I'm Shreya 👋
 
-[![Email](https://img.shields.io/badge/shreya.61219%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya.61219@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-reddy-chintha6/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreyareddy6/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREYA-79)
+### Software Engineering • Data Analytics • Business Intelligence
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer+in+the+making;Data+Analytics+Enthusiast;Business+Intelligence+Learner;108%2B+LeetCode+Problems;CGPA+9.81"/>
 
 </div>
 
-<br>
+---
 
-## Why hire me
+## About Me
 
-| | |
-|---|---|
-| 📊 | Built end-to-end BI systems — from raw SQL to Power BI dashboards executives actually use |
-| 🧮 | 108+ LeetCode problems solved — can write clean, efficient SQL and Python under pressure |
-| 🎓 | CGPA 9.81 in Electronics & Computer Engineering — strong technical foundation, fast learner |
-| 🛠️ | Comfortable across the full analytics stack: SQL → Python → DAX → Power BI → presentation |
+- 💻 Software Engineering enthusiast
+- 📊 Passionate about Data Analytics and Business Intelligence
+- 🎓 Final Year Electronics & Computer Engineering student
+- 🏆 CGPA: 9.81
+- 🧠 Solved 108+ LeetCode problems
+- 📈 Interested in Data Engineering and ETL workflows
+- 🚀 Preparing for Software, Data, and Analytics roles
+- 💬 Ask me about Java, Python, SQL, Power BI, DAX, Pandas, and Streamlit
+- 📫 Reach me: **shreya.61219@gmail.com**
 
-<br>
+---
 
-## Impact, not just tools
+## I'm currently working on
 
-> **Note for Shreya:** replace the `[ADD METRIC]` placeholders below with real numbers before this goes live — recruiters trust specifics, not vague claims.
+- 📊 Building analytics applications with Streamlit
+- 🏬 Data warehousing and BI projects
+- 📈 Interactive dashboards using Power BI
+- 💻 DSA and problem solving
+- ⚙️ SQL and ETL concepts
 
-### 🏬 Retail Data Warehouse
-Designed and built a star-schema data warehouse from raw retail transaction data, then layered Power BI dashboards with DAX measures on top for stakeholder-ready KPI tracking.
-- Modeled `[ADD METRIC — e.g. "50K+ transaction records"]` into a clean star schema
-- Cut manual reporting time by `[ADD METRIC — e.g. "X hours/week"]` with automated dashboards
-- Built RFM segmentation to surface high-value customer cohorts
-- **Stack:** SQL · Power BI · DAX · Power Query
+---
+
+## I'm currently learning
+
+- Data Engineering
+- System Design
+- Backend Development
+- ETL Pipelines
+- Advanced SQL
+- Software Architecture
+
+---
+
+# My Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js"/>
+</p>
+
+---
+
+### Analytics & BI
+
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel">
+<img src="https://img.shields.io/badge/DAX-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power_Query-purple?style=for-the-badge">
+</p>
+
+---
+
+### Python Ecosystem
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn">
+</p>
+
+---
+
+### Databases & Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data_Warehouse-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/ETL-orange?style=for-the-badge">
+</p>
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# Featured Projects
 
 ### 📊 DataLens AI
-Self-serve analytics platform — upload a dataset, get instant profiling, visualization, and outlier detection without writing code.
-- Reduced time-to-first-insight from `[ADD METRIC — e.g. "an hour of manual EDA to under 2 minutes"]`
-- Built for non-technical users — no SQL or Python knowledge required
-- **Stack:** Python · Streamlit · Plotly · Pandas
 
-### 🛒 E-Commerce Analytics Dashboard
-Interactive dashboard analyzing the Superstore retail dataset across sales, customer, and product dimensions.
-- Identified `[ADD METRIC — e.g. "top 3 underperforming product categories driving 20% of returns"]`
-- Built ABC analysis to prioritize inventory decisions
-- **Stack:** SQL · Power BI
+Analytics and visualization platform built using Streamlit, Pandas, Plotly, and statistical analysis.
 
-### 🏏 IPL Sports Analytics
-Statistical analysis and visual storytelling on multi-season IPL match data.
-- Surfaced performance trends across `[ADD METRIC — e.g. "10+ seasons of match data"]`
-- **Stack:** Python · Pandas · Matplotlib
+---
 
-<br>
+### 🏬 Retail Sales Data Warehouse
 
-## Core toolkit
+Business Intelligence platform using SQL Server, Power BI, DAX, and Star Schema.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-<br>
+### 🛒 E-Commerce Power BI Dashboard
 
-## Proof of work
+Interactive business dashboard exploring customer behavior and revenue insights.
 
-<div align="center">
+---
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=SHREYA-79&hide_border=true"/>
+### 🏏 IPL 2025 Dataset
 
-[![LeetCode stats](https://leetcard.jacoblin.cool/Shreyareddy6?theme=light&font=Poppins&width=480)](https://leetcode.com/u/Shreyareddy6/)
+Custom sports analytics dataset for SQL, BI, and analytics projects.
 
-<sub>108+ problems solved across arrays, strings, dynamic programming, and graphs</sub>
+---
 
-</div>
+# GitHub Stats
 
-<br>
+<p align="center">
 
-## Background
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&theme=tokyonight&hide_border=true">
 
-**Education**
-B.Tech, Electronics & Computer Engineering — SRM Institute of Science and Technology
-CGPA: 9.81 · Batch of 2027
+<img width="49%" src="https://streak-stats.demolab.com?user=SHREYA-79&theme=tokyonight&hide_border=true">
 
-**Core coursework**
-DBMS · Data Structures & Algorithms · Operating Systems · Computer Networks · Software Engineering
+</p>
 
-**Currently learning**
-Advanced SQL · System Design · ETL Pipelines · Cloud Fundamentals
+---
 
-<br>
+<p align="center">
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYA-79&layout=compact&theme=tokyonight&hide_border=true">
 
-### Open to Data Analyst and BI roles — let's talk.
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHREYA-79&theme=tokyonight&utcOffset=5.5">
 
-📧 **[shreya.61219@gmail.com](mailto:shreya.61219@gmail.com)**
+</p>
 
-</div>
+---
+
+# LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Shreyareddy6?theme=dark&font=Poppins&ext=heatmap">
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="mailto:shreya.61219@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-reddy-chintha6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/Shreyareddy6/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
+
+---
+
+# Goal
+
+> To build reliable software systems and data-driven solutions that create meaningful impact.
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SHREYA-79/SHREYA-79/output/github-contribution-grid-snake-dark.svg">
+
+</p>
