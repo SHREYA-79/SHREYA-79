@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FDEEF4,50:F0EAFB,100:E8F2FB&height=180&section=header&text=Shreya%20Reddy&fontSize=46&fontColor=5B4B6B&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Cloud%20Practitioner&descAlignY=62&descSize=16&descColor=7C6E8C" width="100%"/>
+```
+$ whoami
+```
 
-<sub>📍 Chennai, Tamil Nadu · IST (UTC +5:30)</sub>
+# Shreya Reddy
 
-<br><br>
+`Software Engineer` · `Data Analyst` · `Cloud Practitioner`
+
+📍 Chennai, India `IST (UTC +5:30)`
 
 [![Gmail](https://img.shields.io/badge/-shreya.61219%40gmail.com-FADADD?style=flat-square&logo=gmail&logoColor=8A6E7E&labelColor=FFF6F8)](mailto:shreya.61219@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-D6E4F0?style=flat-square&logo=linkedin&logoColor=5C7A99&labelColor=F4F9FF)](https://www.linkedin.com/in/shreya-reddy-chintha6/)
@@ -17,36 +21,38 @@
 
 <br>
 
-## About
+```bash
+$ cat about.md
+```
 
-I'm an Electronics & Computer Engineering student at SRM Institute of Science and Technology, currently working as a Trainee at PwC Acceleration Center India on AWS infrastructure and generative AI projects. I enjoy turning raw data into decisions — through dashboards, pipelines, and the occasional well-placed SQL query.
+B.Tech in Electronics & Computer Engineering at SRM Institute of Science and Technology (CGPA 9.81, batch of 2027), currently working as a Trainee at PwC Acceleration Center India on AWS infrastructure and generative AI. Most days I'm somewhere between a Power BI dashboard and a half-broken SQL query, trying to make data say something useful.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```bash
+$ git log --oneline --decorate
+```
 
-**Education**
-B.Tech, Electronics & Computer Engineering
-SRM Institute of Science & Technology
-CGPA 9.81 · Batch of 2027
-
-</td>
-<td width="50%" valign="top">
-
-**Currently**
-Trainee — AWS Infrastructure & GenAI, PwC Acceleration Center
-Writing technical blogs on Medium
-
-</td>
-</tr>
-</table>
+```
+2026  HEAD -> main   Trainee @ PwC, AWS infra + GenAI
+2025  tag: BI-era    Power BI, DAX, star schema, consulting frameworks
+2024  tag: sql-101   Python for data analysis, first dashboards
+2023  init           DSA roots in C++ and Java
+```
 
 <br>
 
-## Tech stack
+## stack.json
 
-**Languages**
-<br>
+```json
+{
+  "languages":   ["Python", "Java", "C++", "SQL", "JavaScript"],
+  "data_bi":     ["Power BI", "DAX", "Excel", "Tableau", "Pandas", "Plotly"],
+  "ai_ml":       ["Scikit-Learn", "TensorFlow", "LangChain", "Claude API"],
+  "cloud_infra": ["AWS", "Oracle Cloud", "Databricks", "PostgreSQL", "Docker"]
+}
+```
+
+<sub>full breakdown ↓</sub>
+
 ![Python](https://img.shields.io/badge/Python-EDE7F6?style=flat-square&logo=python&logoColor=6A5ACD)
 ![Java](https://img.shields.io/badge/Java-FFF3E0?style=flat-square&logo=openjdk&logoColor=D08C2A)
 ![C++](https://img.shields.io/badge/C%2B%2B-E3F2FD?style=flat-square&logo=cplusplus&logoColor=4A7FB5)
@@ -55,8 +61,6 @@ Writing technical blogs on Medium
 ![HTML5](https://img.shields.io/badge/HTML5-FCE4EC?style=flat-square&logo=html5&logoColor=C2618A)
 ![CSS3](https://img.shields.io/badge/CSS3-E1F5FE?style=flat-square&logo=css3&logoColor=3E8FB5)
 
-**Data analytics & BI**
-<br>
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFF8E1?style=flat-square&logo=powerbi&logoColor=C9971F)
 ![Excel](https://img.shields.io/badge/Excel-E8F5E9?style=flat-square&logo=microsoftexcel&logoColor=3E7D52)
 ![DAX](https://img.shields.io/badge/DAX-E3F2FD?style=flat-square&logo=microsoft&logoColor=4A7FB5)
@@ -66,16 +70,12 @@ Writing technical blogs on Medium
 ![Plotly](https://img.shields.io/badge/Plotly-FCE4EC?style=flat-square&logo=plotly&logoColor=C2618A)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFEBEE?style=flat-square&logo=streamlit&logoColor=C75450)
 
-**AI & machine learning**
-<br>
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFF3E0?style=flat-square&logo=scikitlearn&logoColor=D08C2A)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFF3E0?style=flat-square&logo=tensorflow&logoColor=D08C2A)
 ![LangChain](https://img.shields.io/badge/LangChain-E8F5E9?style=flat-square&logo=langchain&logoColor=4D8C6C)
 ![Claude API](https://img.shields.io/badge/Claude%20API-FFEBE5?style=flat-square&logo=anthropic&logoColor=C16B4E)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFFDE7?style=flat-square&logo=huggingface&logoColor=B8A22A)
 
-**Cloud, data engineering & tools**
-<br>
 ![AWS](https://img.shields.io/badge/AWS-FFF3E0?style=flat-square&logo=amazonaws&logoColor=D08C2A)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FFEBE5?style=flat-square&logo=oracle&logoColor=C16B4E)
 ![Databricks](https://img.shields.io/badge/Databricks-FFEBE5?style=flat-square&logo=databricks&logoColor=C16B4E)
@@ -87,76 +87,54 @@ Writing technical blogs on Medium
 
 <br>
 
-## Featured projects
+## ls ./projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**DataLens AI**
-Multi-tab Streamlit EDA platform with profiling, visualization, and ML tabs, built for data-role freshers.
-`Python` `Streamlit` `Plotly`
-<sub>● Active</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Retail Data Warehouse**
-End-to-end warehouse with a star schema, Power BI dashboards, and DAX-driven KPI tracking.
-`SQL` `Power BI` `DAX`
-<sub>✓ Complete</sub>
-
-</td>
-<td width="33%" valign="top">
+```
+projects/
+├── datalens-ai/          # multi-tab Streamlit EDA platform — profiling, viz, ML
+│                          Python · Streamlit · Plotly                    [active]
+├── retail-warehouse/      # star schema + Power BI dashboards, DAX KPI tracking
+│                          SQL · Power BI · DAX                        [complete]
+├── financeiq/             # AI personal finance advisor, Claude-driven analysis
+│                          Streamlit · Claude API                      [complete]
+```
 
 <br>
 
-## GitHub stats
+## stats --watch
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8A7CA8&icon_color=C9A9D4&text_color=6B6178&bg_color=FCFAFE"/>
 <img width="48%" src="https://streak-stats.demolab.com?user=SHREYA-79&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FCFAFE&ring=C9A9D4&fire=E8A6BE&currStreakLabel=8A7CA8&sideLabels=6B6178&currStreakNum=6B6178&sideNums=6B6178&dates=A89DB5"/>
 
-</div>
-
-## LeetCode
-
-<div align="center">
-
 [![LeetCode stats](https://leetcard.jacoblin.cool/Shreyareddy6?theme=light&font=Poppins&width=480)](https://leetcode.com/u/Shreyareddy6/)
 
-<sub>110+ problems solved across arrays, strings, dynamic programming, and graphs</sub>
+<sub>110+ problems solved · arrays · strings · dynamic programming · graphs</sub>
 
 </div>
 
 <br>
 
-## Beyond the code
+```bash
+$ cat skills.log | grep -v "languages\|frameworks"
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- **Teamwork** — built through PwC team projects and SRMIST committees
-- **Analytical thinking** — applying consulting frameworks to turn data into decisions
-- **Problem solving** — 108+ LeetCode problems and real-world data challenges
-
-</td>
-<td width="50%" valign="top">
-
-- **Continuous learning** — AWS and Oracle certified, always upskilling
-- **Technical writing** — Medium posts and consulting-style reports
-
-</td>
-</tr>
-</table>
+```
+[teamwork]        PwC team projects, SRMIST committees
+[analytical]       consulting frameworks → data → decisions
+[problem-solving]  108+ LeetCode, real-world data debugging
+[learning]         AWS + Oracle certified, always shipping something new
+[writing]          Medium posts, consulting-style reports
+```
 
 <br>
 
 <div align="center">
 
-<sub><i>"Data without decisions is just noise."</i></sub>
+```
+> data without decisions is just noise.
+```
 
 </div>
 
