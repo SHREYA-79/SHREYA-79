@@ -1,147 +1,256 @@
 <div align="center">
 
-```
-$ whoami
-```
+<img src="https://raw.githubusercontent.com/SHREYA-79/profile-assets/main/banner.png" width="100%">
 
-# Shreya Reddy
+<br><br>
 
-`Software Engineer` · `Data Analyst` · `Cloud Practitioner`
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Software+Engineering;Data+Analytics;Business+Intelligence;Data+Engineering;108%2B+LeetCode+Problems;Final+Year+ECE+Student;Building+Systems+with+Data"/>
 
-📍 Chennai, India `IST (UTC +5:30)`
+<br>
 
-[![Gmail](https://img.shields.io/badge/-shreya.61219%40gmail.com-FADADD?style=flat-square&logo=gmail&logoColor=8A6E7E&labelColor=FFF6F8)](mailto:shreya.61219@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-D6E4F0?style=flat-square&logo=linkedin&logoColor=5C7A99&labelColor=F4F9FF)](https://www.linkedin.com/in/shreya-reddy-chintha6/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FDEBD3?style=flat-square&logo=leetcode&logoColor=B8783A&labelColor=FFF8F0)](https://leetcode.com/u/Shreyareddy6/)
-[![GitHub](https://img.shields.io/badge/-GitHub-E5E0F0?style=flat-square&logo=github&logoColor=6B5E8C&labelColor=F7F5FC)](https://github.com/SHREYA-79)
-[![Medium](https://img.shields.io/badge/-Medium-DCEEE4?style=flat-square&logo=medium&logoColor=4F8266&labelColor=F2FAF6)](https://medium.com/@shreya)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-D8EEF0?style=flat-square&logo=googlechrome&logoColor=4A8F95&labelColor=F1FAFB)](https://shreya-79.github.io)
+<img src="https://komarev.com/ghpvc/?username=SHREYA-79&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
-<br>
+---
 
-```bash
-$ cat about.md
+# 👋 Hey, I'm Shreya Reddy
+
+```python
+class Shreya:
+
+    education = "Final Year Electronics & Computer Engineering"
+
+    university = "SRM Institute of Science and Technology"
+
+    cgpa = 9.81
+
+    domains = [
+        "Software Engineering",
+        "Data Analytics",
+        "Business Intelligence",
+        "Data Engineering"
+    ]
+
+    solving = "108+ LeetCode problems"
+
+    goal = "Build software that transforms data into decisions."
 ```
 
-B.Tech in Electronics & Computer Engineering at SRM Institute of Science and Technology (CGPA 9.81, batch of 2027), currently working as a Trainee at PwC Acceleration Center India on AWS infrastructure and generative AI. Most days I'm somewhere between a Power BI dashboard and a half-broken SQL query, trying to make data say something useful.
+---
 
-```bash
-$ git log --oneline --decorate
-```
-
-```
-2026  HEAD -> main   Trainee @ PwC, AWS infra + GenAI
-2025  tag: BI-era    Power BI, DAX, star schema, consulting frameworks
-2024  tag: sql-101   Python for data analysis, first dashboards
-2023  init           DSA roots in C++ and Java
-```
-
-<br>
-
-## stack.json
-
-```json
-{
-  "languages":   ["Python", "Java", "C++", "SQL", "JavaScript"],
-  "data_bi":     ["Power BI", "DAX", "Excel", "Tableau", "Pandas", "Plotly"],
-  "ai_ml":       ["Scikit-Learn", "TensorFlow", "LangChain", "Claude API"],
-  "cloud_infra": ["AWS", "Oracle Cloud", "Databricks", "PostgreSQL", "Docker"]
-}
-```
-
-<sub>full breakdown ↓</sub>
-
-![Python](https://img.shields.io/badge/Python-EDE7F6?style=flat-square&logo=python&logoColor=6A5ACD)
-![Java](https://img.shields.io/badge/Java-FFF3E0?style=flat-square&logo=openjdk&logoColor=D08C2A)
-![C++](https://img.shields.io/badge/C%2B%2B-E3F2FD?style=flat-square&logo=cplusplus&logoColor=4A7FB5)
-![SQL](https://img.shields.io/badge/SQL-E8F5E9?style=flat-square&logo=mysql&logoColor=4D8C6C)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFDE7?style=flat-square&logo=javascript&logoColor=B8A22A)
-![HTML5](https://img.shields.io/badge/HTML5-FCE4EC?style=flat-square&logo=html5&logoColor=C2618A)
-![CSS3](https://img.shields.io/badge/CSS3-E1F5FE?style=flat-square&logo=css3&logoColor=3E8FB5)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-FFF8E1?style=flat-square&logo=powerbi&logoColor=C9971F)
-![Excel](https://img.shields.io/badge/Excel-E8F5E9?style=flat-square&logo=microsoftexcel&logoColor=3E7D52)
-![DAX](https://img.shields.io/badge/DAX-E3F2FD?style=flat-square&logo=microsoft&logoColor=4A7FB5)
-![Tableau](https://img.shields.io/badge/Tableau-FFEBE5?style=flat-square&logo=tableau&logoColor=C16B4E)
-![Pandas](https://img.shields.io/badge/Pandas-EDE7F6?style=flat-square&logo=pandas&logoColor=6A5ACD)
-![NumPy](https://img.shields.io/badge/NumPy-E3F2FD?style=flat-square&logo=numpy&logoColor=4A7FB5)
-![Plotly](https://img.shields.io/badge/Plotly-FCE4EC?style=flat-square&logo=plotly&logoColor=C2618A)
-![Streamlit](https://img.shields.io/badge/Streamlit-FFEBEE?style=flat-square&logo=streamlit&logoColor=C75450)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFF3E0?style=flat-square&logo=scikitlearn&logoColor=D08C2A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFF3E0?style=flat-square&logo=tensorflow&logoColor=D08C2A)
-![LangChain](https://img.shields.io/badge/LangChain-E8F5E9?style=flat-square&logo=langchain&logoColor=4D8C6C)
-![Claude API](https://img.shields.io/badge/Claude%20API-FFEBE5?style=flat-square&logo=anthropic&logoColor=C16B4E)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFFDE7?style=flat-square&logo=huggingface&logoColor=B8A22A)
-
-![AWS](https://img.shields.io/badge/AWS-FFF3E0?style=flat-square&logo=amazonaws&logoColor=D08C2A)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FFEBE5?style=flat-square&logo=oracle&logoColor=C16B4E)
-![Databricks](https://img.shields.io/badge/Databricks-FFEBE5?style=flat-square&logo=databricks&logoColor=C16B4E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E3F2FD?style=flat-square&logo=postgresql&logoColor=4A7FB5)
-![Docker](https://img.shields.io/badge/Docker-E3F2FD?style=flat-square&logo=docker&logoColor=4A7FB5)
-![Git](https://img.shields.io/badge/Git-FFEBE5?style=flat-square&logo=git&logoColor=C16B4E)
-![Flask](https://img.shields.io/badge/Flask-F5F5F5?style=flat-square&logo=flask&logoColor=666666)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFF3E0?style=flat-square&logo=jupyter&logoColor=D08C2A)
-
-<br>
-
-## ls ./projects
-
-```
-projects/
-├── datalens-ai/          # multi-tab Streamlit EDA platform — profiling, viz, ML
-│                          Python · Streamlit · Plotly                    [active]
-├── retail-warehouse/      # star schema + Power BI dashboards, DAX KPI tracking
-│                          SQL · Power BI · DAX                        [complete]
-├── financeiq/             # AI personal finance advisor, Claude-driven analysis
-│                          Streamlit · Claude API                      [complete]
-```
-
-<br>
-
-## stats --watch
+# 🌐 Connect
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8A7CA8&icon_color=C9A9D4&text_color=6B6178&bg_color=FCFAFE"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=SHREYA-79&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FCFAFE&ring=C9A9D4&fire=E8A6BE&currStreakLabel=8A7CA8&sideLabels=6B6178&currStreakNum=6B6178&sideNums=6B6178&dates=A89DB5"/>
+<a href="mailto:shreya.61219@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LeetCode stats](https://leetcard.jacoblin.cool/Shreyareddy6?theme=light&font=Poppins&width=480)](https://leetcode.com/u/Shreyareddy6/)
+<a href="https://www.linkedin.com/in/shreya-reddy-chintha6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<sub>110+ problems solved · arrays · strings · dynamic programming · graphs</sub>
+<a href="https://leetcode.com/u/Shreyareddy6/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+---
 
-```bash
-$ cat skills.log | grep -v "languages\|frameworks"
+# 🚀 Currently
+
+- 📊 Building analytics platforms
+- 💻 Solving DSA problems
+- ⚙️ Learning Data Engineering
+- 📚 Studying System Design
+- 🎯 Preparing for software and data roles
+
+---
+
+# 💻 Programming
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,html,css,js,git,github,vscode&perline=6"/>
+
+</p>
+
+---
+
+# 📊 Analytics & BI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dashboarding-00BFFF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚙️ Data Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Warehouse-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Star_Schema-6A5ACD?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Python Ecosystem
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=SHREYA-79&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYA-79&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHREYA-79&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHREYA-79&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Shreyareddy6?theme=dark&font=Poppins&ext=heatmap"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 📊 DataLens AI | Analytics and visualization platform |
+| 🏬 Retail Warehouse | Data warehouse and BI system |
+| 🛒 E-Commerce Analysis | Business analytics dashboard |
+| 🏏 IPL Dataset | Sports analytics dataset |
+| 🌐 Portfolio | Personal portfolio website |
+
+---
+
+# 📅 Journey
+
+```text
+2023 → Programming
+
+2024 → Data Analytics
+
+2025 → Business Intelligence
+
+2026 → Software + Data Engineering
 ```
 
-```
-[teamwork]        PwC team projects, SRMIST committees
-[analytical]       consulting frameworks → data → decisions
-[problem-solving]  108+ LeetCode, real-world data debugging
-[learning]         AWS + Oracle certified, always shipping something new
-[writing]          Medium posts, consulting-style reports
-```
+---
 
-<br>
+# 📚 Learning
+
+- System Design
+- Backend Development
+- ETL Pipelines
+- Advanced SQL
+- Data Engineering
+- Cloud Fundamentals
+
+---
+
+# 🧠 Core Subjects
+
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
+- OOP
+- Software Engineering
+
+---
+
+# ✨ Philosophy
+
+> Data without decisions is noise.
+
+> Software without impact is code.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SHREYA-79/SHREYA-79/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
 
 <div align="center">
 
-```
-> data without decisions is just noise.
-```
+# DATA × SOFTWARE × ANALYTICS
+
+### Building software that turns data into decisions.
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8F2FB,50:F0EAFB,100:FDEEF4&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=120&section=footer"/>
