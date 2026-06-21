@@ -1,148 +1,108 @@
 <div align="center">
 
-```
-$ whoami
-```
+# Shreya Reddy
+### Data Analyst · Business Intelligence
 
-# SHREYA REDDY
+I turn raw data into dashboards, decisions, and ROI. Final-year Electronics & Computer Engineering student at SRM Institute of Science and Technology (CGPA 9.81) — actively interviewing for Data Analyst / BI roles.
 
-`SOFTWARE ENGINEER` · `DATA ANALYST` · `BUSINESS INTELLIGENCE`
-
-[![Gmail](https://img.shields.io/badge/-shreya.61219%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=39FF14&labelColor=0D1117)](mailto:shreya.61219@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/shreya-reddy-chintha6/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFD600&labelColor=0D1117)](https://leetcode.com/u/Shreyareddy6/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=FF2EC4&labelColor=0D1117)](https://github.com/SHREYA-79)
+[![Email](https://img.shields.io/badge/shreya.61219%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya.61219@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-reddy-chintha6/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreyareddy6/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREYA-79)
 
 </div>
 
 <br>
 
-```bash
-$ cat about.md
-```
+## Why hire me
 
-Final-year Electronics & Computer Engineering student at SRM Institute of Science and Technology (CGPA 9.81). I work across software engineering, data analytics, and BI — most days that means somewhere between a Power BI dashboard, a SQL query, and a half-finished LeetCode problem. Currently 108+ problems in.
-
-```bash
-$ git log --oneline --decorate
-```
-
-```
-2026  HEAD -> main   Software + Data Engineering
-2025  tag: bi-era    Business Intelligence — DAX, dashboards, BI tooling
-2024  tag: analytics Data Analytics fundamentals
-2023  init           Programming roots
-```
+| | |
+|---|---|
+| 📊 | Built end-to-end BI systems — from raw SQL to Power BI dashboards executives actually use |
+| 🧮 | 108+ LeetCode problems solved — can write clean, efficient SQL and Python under pressure |
+| 🎓 | CGPA 9.81 in Electronics & Computer Engineering — strong technical foundation, fast learner |
+| 🛠️ | Comfortable across the full analytics stack: SQL → Python → DAX → Power BI → presentation |
 
 <br>
 
-## stack.json
+## Impact, not just tools
 
-```json
-{
-  "languages":    ["Java", "Python", "C++", "C", "SQL", "JavaScript"],
-  "analytics_bi": ["Power BI", "DAX", "Power Query", "Excel"],
-  "data_eng":     ["MySQL", "SQL Server", "ETL", "Data Warehousing", "Star Schema"],
-  "python_eco":   ["Pandas", "NumPy", "Plotly", "Streamlit", "Scikit-Learn"]
-}
-```
+> **Note for Shreya:** replace the `[ADD METRIC]` placeholders below with real numbers before this goes live — recruiters trust specifics, not vague claims.
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39FF14)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=FF2EC4)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=FFD600)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FFD600)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF2EC4)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00F0FF)
+### 🏬 Retail Data Warehouse
+Designed and built a star-schema data warehouse from raw retail transaction data, then layered Power BI dashboards with DAX measures on top for stakeholder-ready KPI tracking.
+- Modeled `[ADD METRIC — e.g. "50K+ transaction records"]` into a clean star schema
+- Cut manual reporting time by `[ADD METRIC — e.g. "X hours/week"]` with automated dashboards
+- Built RFM segmentation to surface high-value customer cohorts
+- **Stack:** SQL · Power BI · DAX · Power Query
 
-![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=FFD600)
-![DAX](https://img.shields.io/badge/DAX-0D1117?style=flat-square&logo=microsoft&logoColor=00F0FF)
-![Power Query](https://img.shields.io/badge/Power%20Query-0D1117?style=flat-square&logo=microsoft&logoColor=FF2EC4)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=39FF14)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=FF2EC4)
+### 📊 DataLens AI
+Self-serve analytics platform — upload a dataset, get instant profiling, visualization, and outlier detection without writing code.
+- Reduced time-to-first-insight from `[ADD METRIC — e.g. "an hour of manual EDA to under 2 minutes"]`
+- Built for non-technical users — no SQL or Python knowledge required
+- **Stack:** Python · Streamlit · Plotly · Pandas
 
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F0FF)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=39FF14)
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=FF2EC4)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FFD600)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00F0FF)
+### 🛒 E-Commerce Analytics Dashboard
+Interactive dashboard analyzing the Superstore retail dataset across sales, customer, and product dimensions.
+- Identified `[ADD METRIC — e.g. "top 3 underperforming product categories driving 20% of returns"]`
+- Built ABC analysis to prioritize inventory decisions
+- **Stack:** SQL · Power BI
+
+### 🏏 IPL Sports Analytics
+Statistical analysis and visual storytelling on multi-season IPL match data.
+- Surfaced performance trends across `[ADD METRIC — e.g. "10+ seasons of match data"]`
+- **Stack:** Python · Pandas · Matplotlib
 
 <br>
 
-## ls ./projects
+## Core toolkit
 
-```
-projects/
-├── datalens-ai/         # analytics and visualization platform
-│                          Python · Streamlit · Plotly
-├── retail-warehouse/    # data warehouse + BI system, star schema
-│                          SQL · Power BI · DAX
-├── ecommerce-analysis/  # business analytics dashboard
-│                          SQL · Power BI
-├── ipl-dataset/         # sports analytics dataset
-│                          Python · Pandas
-└── portfolio/           # personal portfolio site
-                           HTML · CSS · JS
-```
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br>
 
-## stats --watch
+## Proof of work
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=neon&bg_color=0D1117"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=SHREYA-79&hide_border=true&theme=neon-dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=SHREYA-79&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYA-79&layout=compact&hide_border=true&theme=neon&bg_color=0D1117"/>
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHREYA-79&hide_border=true&bg_color=0D1117&color=39FF14&line=00F0FF&point=FF2EC4"/>
+[![LeetCode stats](https://leetcard.jacoblin.cool/Shreyareddy6?theme=light&font=Poppins&width=480)](https://leetcode.com/u/Shreyareddy6/)
 
-[![LeetCode stats](https://leetcard.jacoblin.cool/Shreyareddy6?theme=dark&font=Poppins&width=480&ext=heatmap)](https://leetcode.com/u/Shreyareddy6/)
-
-<sub><code style="color:#39FF14">108+ problems solved</code></sub>
+<sub>108+ problems solved across arrays, strings, dynamic programming, and graphs</sub>
 
 </div>
 
 <br>
 
-```bash
-$ cat learning.log
-```
+## Background
 
-```
-[in progress]  System Design
-[in progress]  Backend Development
-[in progress]  ETL Pipelines
-[in progress]  Advanced SQL
-[in progress]  Data Engineering
-[in progress]  Cloud Fundamentals
-```
+**Education**
+B.Tech, Electronics & Computer Engineering — SRM Institute of Science and Technology
+CGPA: 9.81 · Batch of 2027
 
-```bash
-$ cat coursework.log
-```
+**Core coursework**
+DBMS · Data Structures & Algorithms · Operating Systems · Computer Networks · Software Engineering
 
-```
-Data Structures & Algorithms · DBMS · Operating Systems
-Computer Networks · OOP · Software Engineering
-```
+**Currently learning**
+Advanced SQL · System Design · ETL Pipelines · Cloud Fundamentals
 
 <br>
 
 <div align="center">
 
-```
-> data without decisions is noise.
-> software without impact is just code.
-```
+### Open to Data Analyst and BI roles — let's talk.
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1A0B2E,100:0D1117&height=100&section=footer" width="100%"/>
+📧 **[shreya.61219@gmail.com](mailto:shreya.61219@gmail.com)**
 
 </div>
