@@ -247,7 +247,7 @@ Sports analytics dataset.
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Shreyareddy6?theme=dark&font=Poppins&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/duskchromatic/?theme=dark&font=Poppins&ext=heatmap"/>
 
 </p>
 
