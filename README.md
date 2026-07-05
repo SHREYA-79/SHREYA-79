@@ -247,7 +247,7 @@ Sports analytics dataset.
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/duskchromatic/?theme=dark&font=Poppins&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/duskchromatic?theme=dark&font=Poppins&ext=heatmap"/>
 
 </p>
 
@@ -331,7 +331,7 @@ Sports analytics dataset.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Shreyareddy6/">
+<a href="https://leetcode.com/u/duskchromatic/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
