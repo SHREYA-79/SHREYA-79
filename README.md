@@ -10,8 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=SHREYA-79&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/SHREYA-79?style=for-the-badge&color=blue"/>
-
 <img src="https://img.shields.io/github/stars/SHREYA-79?style=for-the-badge&color=purple"/>
 
 </div>
