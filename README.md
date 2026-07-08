@@ -4,7 +4,7 @@
 
 ### 💻 Software Engineering • 📊 Data Analytics • 📈 Business Intelligence • ⚙️ Data Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Final+Year+ECE+Student;Software+Engineer+in+the+Making;Data+Analytics+Enthusiast;Business+Intelligence+Learner;108%2B+LeetCode+Problems;CGPA+9.81;Building+Software+with+Data" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Final+Year+ECE+Student;Software+Engineer+in+the+Making;Data+Analytics+Enthusiast;Business+Intelligence+Learner;150%2B+LeetCode+Problems;CGPA+9.81;Building+Software+with+Data" />
 
 <br>
 
@@ -29,7 +29,7 @@ class ShreyaReddy:
 
     cgpa = 9.81
 
-    solved_problems = "108+ LeetCode"
+    solved_problems = "150+ LeetCode"
 
     interests = [
         "Software Engineering",
@@ -281,7 +281,7 @@ Sports analytics dataset.
 # 🏆 Achievements
 
 - 🎓 CGPA: 9.81
-- 💻 108+ LeetCode Problems
+- 💻 150+ LeetCode Problems
 - 📊 Multiple Analytics Projects
 - 🏬 Data Warehouse Project
 - 🚀 Final Year ECE Student
