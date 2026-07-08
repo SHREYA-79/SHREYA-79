@@ -349,4 +349,10 @@ Sports analytics dataset.
 
 </div>
 
+Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to the repositories you find useful.
+
+Happy Coding! 🚀
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=120&section=footer"/>
