@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey%2C%20I'm%20Shreya%20Reddy%20👋&fontSize=40&fontColor=00D9FF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Data%20Analytics%20%7C%20Business%20Intelligence&descAlignY=58&descSize=17&descColor=a0a0b0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Shreya%20Reddy&fontSize=52&fontColor=00D9FF&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=8892b0&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Final+Year+ECE+%40+SRMIST+%7C+CGPA+9.81;Data+Analyst+%7C+BI+Developer;150%2B+LeetCode+Problems+Solved;Turning+Raw+Data+into+Real+Decisions" />
 
 <br>
-
-<!-- Verified working: readme-typing-svg.demolab.com (NOT herokuapp - that's dead) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Final+Year+ECE+%40+SRMIST+%7C+CGPA+9.81;Data+Analyst+%7C+BI+Developer;150%2B+LeetCode+Problems+Solved;Building+Software+that+Turns+Data+into+Decisions" />
-
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHREYA-79&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![Stars](https://img.shields.io/github/stars/SHREYA-79?style=for-the-badge&color=yellow&label=GITHUB+STARS)
@@ -21,7 +18,9 @@
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌸 About Me
 
@@ -50,31 +49,25 @@ class ShreyaReddy:
     goal = "Build software that transforms data into decisions."
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Programming Languages
+## 💻 Tech Stack
 
+#### Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js&perline=8"/>
 </p>
 
----
-
-## 📊 Analytics & Business Intelligence
-
+#### Analytics & BI
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=microsoft&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ Data Engineering
-
+#### Data Engineering
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -84,10 +77,7 @@ class ShreyaReddy:
 <img src="https://img.shields.io/badge/Star_Schema-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
----
-
-## 🐍 Python Ecosystem
-
+#### Python Ecosystem
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -97,60 +87,77 @@ class ShreyaReddy:
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 🛠️ Tools & Platforms
-
+#### Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman&perline=6"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 📊 DataLens AI
-Analytics and visualization platform for instant EDA without writing code.
-- Auto-profiling, outlier detection, ML tab
-- Built for non-technical analysts
-- `Python` `Streamlit` `Plotly` `Pandas`
+*Analytics and visualization platform for instant EDA — no code needed*
 
-</td>
-<td width="50%" valign="top">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+Auto-profiling · Outlier detection · ML tab · Built for non-technical analysts
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🏬 Retail Data Warehouse
-End-to-end BI system from raw transactions to executive dashboards.
-- Star schema + ETL pipeline
-- DAX KPI tracking + RFM segmentation
-- `SQL Server` `Power BI` `DAX` `ETL`
+*End-to-end BI system — raw transactions to executive-ready dashboards*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=flat-square&logo=microsoft&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white)
+
+Star schema design · DAX KPI tracking · RFM customer segmentation
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🛒 E-Commerce Dashboard
-Customer behavior and sales analytics dashboard.
-- ABC analysis + scenario simulation
-- `Power BI` `Excel` `Python`
+*Customer behavior and sales analytics across product and region dimensions*
 
-</td>
-<td width="50%" valign="top">
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+ABC analysis · Scenario simulation · 5-tab interactive dashboard
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🏏 IPL Sports Analytics
-Multi-season statistical analysis and visual storytelling.
-- Trend analysis across seasons
-- `SQL` `Python` `Pandas` `Matplotlib`
+*Multi-season statistical analysis and visual storytelling on IPL data*
 
-</td>
-</tr>
-</table>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
----
+Trend analysis · Performance patterns · Season-by-season breakdown
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Analytics
 
@@ -159,16 +166,12 @@ Multi-season statistical analysis and visual storytelling.
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHREYA-79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=SHREYA-79&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREYA-79&layout=compact&theme=tokyonight&hide_border=true"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHREYA-79&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 LeetCode Journey
 
@@ -178,20 +181,37 @@ Multi-season statistical analysis and visual storytelling.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📅 Journey
+## 📅 My Journey
 
-```text
-2023  →  Programming foundations
-2024  →  Data Analytics
-2025  →  Business Intelligence
-2026  →  Software + Data Engineering
+<div align="center">
+
+```
+2023 ──────► Programming foundations
+               Java · C++ · DSA · OOP
+
+     ──────────────────────────────────────────────────────
+
+2024 ──────► Data Analytics
+               Python · Pandas · SQL · Excel · Visualization
+
+     ──────────────────────────────────────────────────────
+
+2025 ──────► Business Intelligence
+               Power BI · DAX · Power Query · Star Schema
+
+     ──────────────────────────────────────────────────────
+
+2026 ──────► Software + Data Engineering    ◄── YOU ARE HERE
+               ETL Pipelines · System Design · Cloud
 ```
 
----
+</div>
 
-## 📚 Core Computer Science
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📚 Core CS Subjects
 
 <p align="center">
 <img src="https://img.shields.io/badge/DBMS-0052CC?style=for-the-badge"/>
@@ -202,54 +222,35 @@ Multi-season statistical analysis and visual storytelling.
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-005cc5?style=for-the-badge"/>
 </p>
 
----
-
 ## 🌱 Currently Learning
 
 ```
-⚙️  Data Engineering       ETL pipelines, Medallion architecture
-📚  System Design          HLD, LLD, scalability patterns
-💻  Backend Development    APIs, databases, optimization
-📊  Advanced SQL           Window functions, CTEs, query optimization
-☁️  Cloud Fundamentals     AWS basics, cloud architecture
+⚙️  Data Engineering    →   ETL pipelines, Medallion architecture
+📚  System Design       →   HLD, LLD, scalability patterns
+💻  Backend Dev         →   APIs, databases, optimization
+📊  Advanced SQL        →   Window functions, CTEs, query tuning
+☁️  Cloud              →   AWS basics, cloud architecture
 ```
-
----
 
 ## 🏆 Achievements
 
 ```
-🎓  CGPA 9.81               SRM Institute of Science and Technology
-💻  150+ LeetCode           Arrays · Strings · DP · Graphs
-📊  DataLens AI             End-to-end analytics platform
-🏬  Retail Data Warehouse   Full BI system with Power BI dashboards
+🎓  CGPA 9.81            SRM Institute of Science and Technology
+💻  150+ LeetCode        Arrays · Strings · DP · Graphs
+📊  DataLens AI          End-to-end self-serve analytics platform
+🏬  Retail Warehouse     Full BI system · Power BI · Star Schema
 ```
 
----
-
-## 💭 Philosophy
-
-<div align="center">
-
-> *Data without decisions is noise.*
-
-> *Software without impact is just code.*
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-
 <img src="https://raw.githubusercontent.com/SHREYA-79/SHREYA-79/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/SHREYA-79/SHREYA-79/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -261,7 +262,7 @@ Multi-season statistical analysis and visual storytelling.
 
 <br>
 
-**DATA × SOFTWARE × ANALYTICS**
+**`DATA`** `×` **`SOFTWARE`** `×` **`ANALYTICS`**
 
 *Transforming data into decisions, one query at a time.*
 
