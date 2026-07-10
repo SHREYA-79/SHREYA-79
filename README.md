@@ -1,4 +1,4 @@
-# Shreya Reddy
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Shreya%20Reddy&fontSize=52&fontColor=00D9FF&animation=fadeIn"/>
@@ -151,16 +151,6 @@ AI-powered Exploratory Data Analysis Platform
 </p>
 
 ---
-
-# Featured Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHREYA-79&repo=IntelliHire&theme=tokyonight)](https://github.com/SHREYA-79/IntelliHire)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHREYA-79&repo=DataLens-AI&theme=tokyonight)](https://github.com/SHREYA-79/DataLens-AI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHREYA-79&repo=retail-sales-data-warehouse-bi-platform&theme=tokyonight)](https://github.com/SHREYA-79/retail-sales-data-warehouse-bi-platform)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHREYA-79&repo=E-Commerce-PowerBI-Analysis&theme=tokyonight)](https://github.com/SHREYA-79/E-Commerce-PowerBI-Analysis)
 
 ---
 
