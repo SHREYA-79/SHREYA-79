@@ -152,8 +152,6 @@ AI-powered Exploratory Data Analysis Platform
 
 ---
 
----
-
 ## Current Focus
 
 - AI-powered software
